@@ -8,6 +8,14 @@
 
 <div align="center"><img src="https://github.com/IsaacAlves7/php/assets/61624336/215301da-3059-4ddc-a24d-74992c1e4aa8" height="177"></div>
 
+Sou um especialista em desenvolvimento de software com foco no ecossistema PHP, incluindo frameworks como Laravel, Symfony, CakePHP e Laminas. Tenho experiência sólida na aplicação de boas práticas como SOLID, DRY, KISS, TDA e SoC, além de uso recorrente de design patterns (criacionais, estruturais e comportamentais), seguindo princípios de Clean Code e Clean Architecture para garantir legibilidade, manutenibilidade e escalabilidade do código.
+
+No front-end, atuo em projetos com SPAs integradas a back-ends PHP (utilizando Vue.js ou Inertia.js), SSR com Laravel Blade ou Twig, e design responsivo com HTML/CSS, Flexbox e CSS Grid, baseados em protótipos desenvolvidos no Figma (UI/UX).
+
+Na parte de back-end, construo APIs RESTful e GraphQL (com Lighthouse ou API Platform), com domínio de versionamento via Git e trabalho colaborativo através de CI/CD (GitHub Actions, GitLab CI ou Deployer), uso de ferramentas de análise estática (PHPStan, Psalm), testes unitários e de integração com PHPUnit e Pest, monitoramento de performance com Grafana e Prometheus, além de rastreamento e gestão de erros usando logs estruturados com Monolog em ambientes baseados em microsserviços.
+
+Também implemento soluções de analytics como Google Analytics 4 e ferramentas como Matomo ou Amplitude para monitoramento de usabilidade dos componentes, das features e do comportamento do usuário em produção. Sobre a entrega de software, tenho experiência com implantação em ambientes PaaS (como Heroku, Railway, Render) e uso de recursos em nuvens como AWS (Elastic Beanstalk, S3, RDS), Azure e Google Cloud.
+
 # 🐘 [PHP] PHP - Hypertext Preprocessor 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="77" align="right">
 
