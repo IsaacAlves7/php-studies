@@ -59,7 +59,9 @@ Casos de Uso Importantes do PHP:
 
 6. Blogs e Fóruns: PHP é a base de muitos sistemas de blog e fóruns, como WordPress (o sistema de blog mais popular do mundo) e phpBB.
 
-Como já aprendemos em sistemas distribuídos, um **servidor** é um software ou computador, com sistema de computação centralizada que fornece serviços a uma rede de computadores, chamada de **cliente** (não confunda com Client-Side). O principal papel de um servidor é fornecer algo de maneira centralizada, acabando com a necessidade de se ter um programa ou sistema instalado em cada equipamento de cada um dos usuários de uma empresa. Atualmente servidores são adotados para fornecer praticamente tudo que se consiga imaginar e esteja relacionado com computação.
+> Next.js, Astro e PHP compartilham a mesma raiz conceitual: gerar HTML no servidor. A diferença está em como, quando e por que fazem isso, e no nível de controle e abstração oferecido.
+
+Como já aprendemos em sistemas distribuídos, na arquitetura cliente-servidor, um **servidor** é um software ou computador, com sistema de computação centralizada que fornece serviços a uma rede de computadores, chamada de **cliente** (não confunda com Client-Side). O principal papel de um servidor é fornecer algo de maneira centralizada, acabando com a necessidade de se ter um programa ou sistema instalado em cada equipamento de cada um dos usuários de uma empresa. Atualmente servidores são adotados para fornecer praticamente tudo que se consiga imaginar e esteja relacionado com computação.
 
 <img src="https://cdn.worldvectorlogo.com/logos/bitnami.svg" height="77" align="right">
 
