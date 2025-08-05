@@ -1263,33 +1263,15 @@ bin/cake bake template Usuarios
 # 🟧 [PHP] Laravel
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="77" align="right">
 
-O **Laravel** é um framework PHP de código aberto, elegante e expressivo, que oferece uma sintaxe simples e uma grande variedade de ferramentas poderosas para desenvolver aplicações web modernas e escaláveis. Ele foi criado por Taylor Otwell em 2011 e desde então tem ganhado popularidade rapidamente devido à sua facilidade de uso, documentação abrangente e robustez. O Laravel é um framework PHP moderno e robusto que oferece uma ampla gama de recursos e ferramentas poderosas para desenvolver aplicações web elegantes e escaláveis. Sua sintaxe expressiva, arquitetura MVC e ampla gama de funcionalidades integradas o tornam uma escolha popular para desenvolvedores de todos os níveis de habilidade.
+O **Laravel** é um framework PHP de código aberto criado por Taylor Otwell em 2011, que rapidamente se destacou pela sua elegância, sintaxe expressiva e facilidade de uso. Com uma curva de aprendizado amigável e uma documentação robusta, ele se consolidou como uma das ferramentas mais populares entre desenvolvedores que buscam construir aplicações web modernas, escaláveis e bem estruturadas. Sua arquitetura baseada no padrão Model-View-Controller (MVC) promove uma organização clara do código, separando a lógica de negócio da apresentação e facilitando tanto o desenvolvimento quanto a manutenção das aplicações.
 
-Principais Características do Laravel:
+Um dos grandes diferenciais do Laravel é o **Eloquent**, seu ORM (Object-Relational Mapping), que permite interações com o banco de dados por meio de objetos PHP, eliminando a necessidade de escrever SQL manualmente para as operações mais comuns. Isso torna o desenvolvimento mais intuitivo e produtivo. Além disso, o sistema de rotas do Laravel é simples e direto, permitindo mapear URLs para controladores com facilidade. Essa abordagem contribui para a criação de aplicações bem organizadas e fáceis de escalar.
 
-1. **Expressivo e Elegante**: Laravel apresenta uma sintaxe limpa e expressiva que permite aos desenvolvedores escrever código de forma mais legível e produtiva.
+Outro ponto forte é o sistema de migração de banco de dados, que possibilita versionar e compartilhar alterações no esquema com outros membros da equipe, promovendo consistência e controle durante o desenvolvimento colaborativo. O Laravel também oferece ferramentas prontas para paginação de dados, fundamentais para lidar com grandes volumes de informação de maneira eficiente e amigável ao usuário. Em termos de desempenho, o suporte nativo a diversas opções de cache — como arquivos, banco de dados, memória e Redis — garante flexibilidade na otimização de respostas e recursos.
 
-2. **Arquitetura MVC**: Laravel segue o padrão de design Model-View-Controller (MVC), o que ajuda a organizar o código de forma clara e separar a lógica de negócios da apresentação.
+No que diz respeito à segurança e controle de acesso, o Laravel se destaca com um sistema completo de autenticação e autorização, permitindo a implementação rápida de registro de usuários, login, recuperação de senha e permissões de acesso com total integração à estrutura da aplicação. Complementando suas funcionalidades, o framework conta ainda com um sistema de notificações versátil, capaz de enviar mensagens por e-mail, SMS, notificações push e outros canais, tudo de forma integrada e com uma sintaxe acessível. Com todos esses recursos, o Laravel se firma como uma solução poderosa e moderna para quem deseja desenvolver aplicações web com qualidade e produtividade.
 
-3. **ORM Eloquent**: Laravel vem com Eloquent, um ORM (Object-Relational Mapping) intuitivo e fácil de usar, que simplifica a interação com o banco de dados, permitindo que os desenvolvedores trabalhem com bancos de dados usando objetos PHP.
-
-4. **Sistema de Rotas Simples**: O sistema de roteamento do Laravel permite definir rotas de maneira simples e intuitiva, tornando fácil direcionar URLs para controladores e métodos específicos.
-
-5. **Ferramentas de Migração de Banco de Dados**: Laravel oferece um sistema de migração de banco de dados que permite versionar facilmente o banco de dados da aplicação, permitindo que as alterações no esquema do banco de dados sejam controladas e compartilhadas com outros membros da equipe.
-
-6. **Ferramenta de Paginação**: O Laravel inclui uma poderosa ferramenta de paginação que permite dividir grandes conjuntos de dados em várias páginas para facilitar a navegação e melhorar o desempenho da aplicação.
-
-7. **Sistema de Cache**: Laravel oferece suporte a várias opções de cache, como cache de arquivo, cache de banco de dados, cache de memória e cache de Redis, o que pode ajudar a melhorar significativamente o desempenho da aplicação.
-
-8. **Autenticação e Autorização**: Laravel simplifica a implementação de autenticação e autorização, fornecendo um sistema completo de autenticação com suporte a registro de usuários, login, recuperação de senha e muito mais.
-
-9. **Notificações**: Laravel inclui um sistema de notificação flexível que permite enviar e-mails, SMS, notificações de push e outros tipos de notificações de forma fácil e intuitiva.
-
-Exemplo de Uso do Laravel:
-
-Instalação do Laravel:
-
-Para criar um novo projeto Laravel, você pode usar o Composer. Execute o seguinte comando no terminal:
+Instalação do Laravel: Para criar um novo projeto Laravel, você pode usar o Composer. Execute o seguinte comando no terminal:
 
 ```bash
 composer create-project --prefer-dist laravel/laravel nome-do-projeto
@@ -1337,6 +1319,12 @@ Benefícios do Uso do Laravel:
 2. **Comunidade Ativa**: Laravel tem uma grande comunidade de desenvolvedores ativos e uma vasta quantidade de recursos, incluindo documentação oficial, fóruns, pacotes de terceiros e muito mais.
 3. **Segurança**: Laravel inclui várias funcionalidades de segurança, como proteção contra ataques CSRF, SQL injection, XSS e autenticação integrada.
 4. **Manutenção Simples**: A estrutura organizada do Laravel e suas ferramentas integradas facilitam a manutenção e o crescimento contínuo da aplicação.
+
+O Laravel se esforça para tornar toda a experiência de desenvolvimento PHP agradável, incluindo seu ambiente de desenvolvimento local. Vagrant fornece uma maneira simples e elegante de gerenciar e provisionar Máquinas Virtuais.
+
+**Laravel Homestead** é uma caixa Vagrant oficial e pré-embalada que fornece um ambiente de desenvolvimento maravilhoso sem exigir que você instale PHP, um servidor web e qualquer outro software de servidor em sua máquina local. Chega de se preocupar em bagunçar seu sistema operacional! As caixas de são completamente descartáveis. Se algo der errado, você pode destruir e recriar a caixa em minutos!
+
+O Homestead é executado em qualquer sistema Windows, Mac ou Linux e inclui Nginx, PHP, MySQL, PostgreSQL, Redis, Memcached, Node e todas as outras coisas que você precisa para desenvolver aplicativos Laravel incríveis.
 
 ## [PHP] Livewire
 <img src="https://github.com/user-attachments/assets/75962645-be59-4475-9ad1-d2b43b8e462e" align="right" height="77">
