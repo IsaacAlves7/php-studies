@@ -1261,7 +1261,7 @@ bin/cake bake template Usuarios
  ```
 
 # 🟧 [PHP] Laravel
-<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="77" align="right">
+<a href="https://laravel.com/"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="77" align="right"></a>
 
 O **Laravel** é um framework PHP de código aberto criado por Taylor Otwell em 2011, que rapidamente se destacou pela sua elegância, sintaxe expressiva e facilidade de uso. Com uma curva de aprendizado amigável e uma documentação robusta, ele se consolidou como uma das ferramentas mais populares entre desenvolvedores que buscam construir aplicações web modernas, escaláveis e bem estruturadas. Sua arquitetura baseada no padrão Model-View-Controller (MVC) promove uma organização clara do código, separando a lógica de negócio da apresentação e facilitando tanto o desenvolvimento quanto a manutenção das aplicações.
 
@@ -1324,7 +1324,7 @@ O Laravel se esforça para tornar toda a experiência de desenvolvimento PHP agr
 
 **Laravel Homestead** é uma caixa Vagrant oficial e pré-embalada que fornece um ambiente de desenvolvimento maravilhoso sem exigir que você instale PHP, um servidor web e qualquer outro software de servidor em sua máquina local. Chega de se preocupar em bagunçar seu sistema operacional! As caixas de são completamente descartáveis. Se algo der errado, você pode destruir e recriar a caixa em minutos!
 
-O Homestead é executado em qualquer sistema Windows, Mac ou Linux e inclui Nginx, PHP, MySQL, PostgreSQL, Redis, Memcached, Node e todas as outras coisas que você precisa para desenvolver aplicativos Laravel incríveis.
+O <a href="https://laravel.com/docs/6.x/homestead">Homestead</a> é executado em qualquer sistema Windows, Mac ou Linux e inclui Nginx, PHP, MySQL, PostgreSQL, Redis, Memcached, Node e todas as outras coisas que você precisa para desenvolver aplicativos Laravel incríveis.
 
 ## [PHP] Livewire
 <img src="https://github.com/user-attachments/assets/75962645-be59-4475-9ad1-d2b43b8e462e" align="right" height="77">
