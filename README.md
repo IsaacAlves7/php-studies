@@ -1326,6 +1326,8 @@ O Laravel se esforça para tornar toda a experiência de desenvolvimento PHP agr
 
 O <a href="https://laravel.com/docs/6.x/homestead">Homestead</a> é executado em qualquer sistema Windows, Mac ou Linux e inclui Nginx, PHP, MySQL, PostgreSQL, Redis, Memcached, Node e todas as outras coisas que você precisa para desenvolver aplicativos Laravel incríveis.
 
+Você pode usar o Laradock também
+
 ## [PHP] Livewire
 <img src="https://github.com/user-attachments/assets/75962645-be59-4475-9ad1-d2b43b8e462e" align="right" height="77">
 
@@ -1367,10 +1369,6 @@ Aqui estão alguns dos principais recursos do Filament:
 7. **Personalização**: Ele oferece um alto nível de personalização, permitindo que você ajuste o estilo e o comportamento do painel administrativo conforme as necessidades da sua aplicação.
 
 <img src="https://github.com/user-attachments/assets/d5db2d37-ec6f-46f1-aa8f-2402f29ea7ff" align="right" height="177">
-
-
-
-## [PHP] Laradock
 
 ## [PHP] Lumen
 <img src="https://github.com/IsaacAlves7/php/assets/61624336/30ff36eb-9402-43a6-9f9a-48daf6d8f1c1" align="right" height="77">
