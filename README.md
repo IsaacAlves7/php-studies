@@ -300,13 +300,7 @@ Principais Funcionalidades do Composer:
 
 5. **Scripts**: Composer permite definir scripts que podem ser executados em certos momentos do ciclo de vida do projeto, como antes ou depois da instalação de pacotes.
 
-Como Usar o Composer:
-
-Aqui está um guia básico sobre como instalar e usar o Composer em um projeto PHP.
-
-Instalação do Composer:
-
-Você pode instalar o <a href="https://youtu.be/XO5VFfiqOPI">Composer</a> globalmente no seu sistema ou localmente no seu projeto. Aqui está um exemplo de instalação global:
+Instalação do Composer: Você pode instalar o <a href="https://youtu.be/XO5VFfiqOPI">Composer</a> globalmente no seu sistema ou localmente no seu projeto. Aqui está um exemplo de instalação global:
 
 ```sh
 # Download e instalação do Composer
