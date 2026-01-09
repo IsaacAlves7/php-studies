@@ -1571,9 +1571,7 @@ Principais Características do Symfony:
 
 Exemplo de Uso do Symfony:
 
-Instalação do Symfony:
-
-A maneira mais comum de instalar o Symfony é usando o Composer. Execute o seguinte comando no terminal:
+Instalação do Symfony: A maneira mais comum de instalar o Symfony é usando o Composer. Execute o seguinte comando no terminal:
 
 ```bash
 composer create-project symfony/skeleton nome-do-projeto
