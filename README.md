@@ -1320,7 +1320,9 @@ O Laravel se esforça para tornar toda a experiência de desenvolvimento PHP agr
 
 O <a href="https://laravel.com/docs/6.x/homestead">Homestead</a> é executado em qualquer sistema Windows, Mac ou Linux e inclui Nginx, PHP, MySQL, PostgreSQL, Redis, Memcached, Node e todas as outras coisas que você precisa para desenvolver aplicativos Laravel incríveis.
 
-Você pode usar o Laradock também
+Você pode usar o Laradock também deploy.
+
+![608980033_1205524781687658_6369051805304865114_n](https://github.com/user-attachments/assets/4fd5e56d-d9b5-46fb-97f9-871b3a3272f9)
 
 ## [PHP] Livewire
 <img src="https://github.com/user-attachments/assets/75962645-be59-4475-9ad1-d2b43b8e462e" align="right" height="77">
