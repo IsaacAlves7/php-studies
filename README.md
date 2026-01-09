@@ -1271,9 +1271,7 @@ Instalação do Laravel: Para criar um novo projeto Laravel, você pode usar o C
 composer create-project --prefer-dist laravel/laravel nome-do-projeto
 ```
 
-Criando uma Rota:
-
-Defina uma rota no arquivo `routes/web.php`:
+Criando uma Rota: Defina uma rota no arquivo `routes/web.php`:
 
 ```php
 Route::get('/', function () {
@@ -1281,9 +1279,7 @@ return view('welcome');
 });
 ```
 
-Criando uma View:
-
-Crie uma view em `resources/views/welcome.blade.php`:
+Criando uma View: Crie uma view em `resources/views/welcome.blade.php`:
 
 ```html
 <!DOCTYPE html>
@@ -1297,9 +1293,7 @@ Crie uma view em `resources/views/welcome.blade.php`:
 </html>
 ```
 
-Executando o Servidor de Desenvolvimento:
-
-Execute o servidor de desenvolvimento embutido usando o comando Artisan:
+Executando o Servidor de Desenvolvimento: Execute o servidor de desenvolvimento embutido usando o comando Artisan:
 
 ```bash
 php artisan serve
