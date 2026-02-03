@@ -1318,6 +1318,8 @@ Você pode usar o Laradock também deploy.
 
 ![608980033_1205524781687658_6369051805304865114_n](https://github.com/user-attachments/assets/4fd5e56d-d9b5-46fb-97f9-871b3a3272f9)
 
+- https://medium.com/@styles77/lets-clean-up-your-laravel-controller-and-implement-dto-a67c44bf5bb6?source=email-afeafff77325-1698473490513-digest.reader--a67c44bf5bb6----1-98------------------067f8009_6657_46ec_970c_5486c9fe0f99-1
+
 ## [PHP] Livewire
 <img src="https://github.com/user-attachments/assets/75962645-be59-4475-9ad1-d2b43b8e462e" align="right" height="77">
 
