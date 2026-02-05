@@ -1257,7 +1257,9 @@ bin/cake bake template Usuarios
 # 🟧 [PHP] Laravel
 <a href="https://laravel.com/"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="77" align="right"></a>
 
-O **Laravel** é um framework PHP de código aberto criado por Taylor Otwell em 2011, que rapidamente se destacou pela sua elegância, sintaxe expressiva e facilidade de uso. Com uma curva de aprendizado amigável e uma documentação robusta, ele se consolidou como uma das ferramentas mais populares entre desenvolvedores que buscam construir aplicações web modernas, escaláveis e bem estruturadas. Sua arquitetura baseada no padrão Model-View-Controller (MVC) promove uma organização clara do código, separando a lógica de negócio da apresentação e facilitando tanto o desenvolvimento quanto a manutenção das aplicações.
+O **Laravel** é um framework PHP de código aberto criado por Taylor Otwell em 2011, que rapidamente se destacou pela sua elegância, sintaxe expressiva e facilidade de uso. Com uma curva de aprendizado amigável e uma documentação robusta, ele se consolidou como uma das ferramentas mais populares entre desenvolvedores que buscam construir aplicações web modernas, escaláveis e bem estruturadas. 
+
+Sua arquitetura baseada no padrão Model-View-Controller (MVC) promove uma organização clara do código, separando a lógica de negócio da apresentação e facilitando tanto o desenvolvimento quanto a manutenção das aplicações.
 
 Um dos grandes diferenciais do Laravel é o **Eloquent**, seu ORM (Object-Relational Mapping), que permite interações com o banco de dados por meio de objetos PHP, eliminando a necessidade de escrever SQL manualmente para as operações mais comuns. Isso torna o desenvolvimento mais intuitivo e produtivo. Além disso, o sistema de rotas do Laravel é simples e direto, permitindo mapear URLs para controladores com facilidade. Essa abordagem contribui para a criação de aplicações bem organizadas e fáceis de escalar.
 
