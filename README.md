@@ -10,7 +10,9 @@
 
 <div align="center"><img src="https://github.com/IsaacAlves7/php/assets/61624336/215301da-3059-4ddc-a24d-74992c1e4aa8" height="177"></div>
 
-Sou um especialista em desenvolvimento de software com foco no ecossistema PHP, incluindo frameworks como Laravel, Symfony, CakePHP e Laminas. Tenho experiência sólida na aplicação de boas práticas como SOLID, DRY, KISS, TDA e SoC, além de uso recorrente de design patterns (criacionais, estruturais e comportamentais), seguindo princípios de Clean Code e Clean Architecture para garantir legibilidade, manutenibilidade e escalabilidade do código.
+Sou um especialista em desenvolvimento de software com foco no ecossistema PHP, incluindo frameworks como Laravel, Symfony, CakePHP e Laminas.
+
+Tenho experiência sólida na aplicação de boas práticas como SOLID, DRY, KISS, TDA e SoC, além de uso recorrente de design patterns (criacionais, estruturais e comportamentais), seguindo princípios de Clean Code e Clean Architecture para garantir legibilidade, manutenibilidade e escalabilidade do código.
 
 No front-end, atuo em projetos com SPAs integradas a back-ends PHP (utilizando Vue.js ou Inertia.js), SSR com Laravel Blade ou Twig, e design responsivo com HTML/CSS, Flexbox e CSS Grid, baseados em protótipos desenvolvidos no Figma (UI/UX).
 
